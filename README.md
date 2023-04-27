@@ -47,3 +47,10 @@ Nota: 	Si se especifican tanto la hora como el paquete, sólo se utilizará la h
 
 ### Aviso legal ###
 Esta herramienta está escrita con fines educativos únicamente, **por favor** utilícela de buena fe.
+
+### Invítame un café: ###
+<div id="badges">
+  <a href="https://www.buymeacoffee.com/elblogden4p5t3r" target="_blank">
+    <img src="https://img.shields.io/badge/buymeacoffee-yellow?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
